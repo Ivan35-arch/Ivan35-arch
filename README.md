@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ivan35-arch
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on a data analysis project
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on a machine learning project
 - 📫 How to reach me ivanmosoti06@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
